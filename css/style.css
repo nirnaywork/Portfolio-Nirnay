@@ -65,3 +65,9 @@ header{
     padding: 5px 20px;
 
 }
+footer{
+    background-color: #B4121B;
+    padding: 30px;
+    margin:0px;
+    border: rgb(253, 253, 253) solid 5px;
+}
